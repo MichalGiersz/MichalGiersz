@@ -1,0 +1,321 @@
+body
+{
+	background-color: #264653;
+	color:#ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+	position: relative;  top: -10px;
+}
+
+h1
+{
+	margin-top:0px;
+	margin-bottom: 5px;
+}
+
+#logo
+{
+	
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	font-size:73px;
+	width: 960px;
+	height: 88px;
+	padding-top:18px;
+	margin-left:20px;
+	margin-top:20px;
+	border-radius: 15px;
+	background-color: #5b7fb4;
+	position: relative; left: -10px;
+}
+
+
+#stopka
+{
+	width: 1000px;
+	margin-top: 7px;
+	text-align: center;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right:auto;
+	
+	
+}
+.s1
+{
+	width: 24%;
+	float: left;
+}
+
+.s2
+{
+	width:76%;
+	float: left;
+}
+
+.t1
+{
+	
+	width: 210px;
+	height: 112px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #2a9d8f;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.t1:hover
+{
+	background-color: #168d7f;
+}
+
+.t2
+{
+	width: 210px;
+	height: 112px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #e9c46a;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.t2:hover
+{
+	background-color: #d8b359;
+}
+
+.t3
+{
+	width: 210px;
+	height: 112px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #e77451;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.t3:hover
+{
+	background-color:#d66341;
+}
+
+.t4
+{
+	width: 700px;
+	height: 386px;
+	margin: 10px;
+	padding: 10px;
+	padding-top: 20px;
+	font-size: 19px;
+	background-color: #f4a261;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.t5
+{
+	width: 700px;
+	height: 81px;
+	margin: 10px;
+	font-size: 22px;
+	padding: 10px;
+	padding-top: 19px;
+	line-height: 150%;
+	background-color: #518eaa;
+	text-align: center;
+	border-radius: 15px;
+}
+
+
+a.tilelink 
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+a.sociallink 
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
+
+.yt
+{
+	width: 90px;
+	height: 90px;
+	margin:10px;
+	margin-top: 0px;
+	padding: 10px;
+	float:left;
+	background-color: #d94348;
+	border-radius: 15px;
+}
+
+.yt:hover 
+{
+    background-color: #C83237;
+}
+
+.fb
+{
+	width: 90px;
+	margin: 10px,10px,0px,0px;
+	padding: 10px;
+	height: 90px;
+	float:left;
+	background-color: #3668b3;
+	border-radius: 15px;
+}
+
+.fb:hover 
+{
+    background-color: #3557A2;
+}
+
+.fbofi
+{
+	width: 120px;
+	padding: 20px;
+	height: 100px;
+	margin-left: 100px;
+	margin-right: 10px;
+	float:left;
+	text-align: center;
+	background-color: #597fb8;
+	border-radius: 15px;
+}
+
+.fbofi:hover 
+{
+    background-color: #3576a2;
+}
+
+.ytplay
+{
+	width: 120px;
+	height: 100px;
+	padding: 20px;
+	float:left;
+	background-color: #cc595def;
+	border-radius: 15px;
+}
+
+.ytplay:hover 
+{
+    background-color: #cf4b50;
+}
+
+.twitch
+{
+	width: 120px;
+	height: 100px;
+	padding: 20px;
+	margin-right: 90px;
+	margin-left: 10px;
+	float:left;
+	background-color: #af61d3;
+	border-radius: 15px;
+}
+
+.twitch:hover 
+{
+    background-color: #9f43ca;
+}
+
+.tekst
+{
+	font-size: 20px;
+}
+.b1
+{
+	width:50%;
+	float: left;
+}
+.ciastkarnia
+{
+	background-color: #dfc84b;
+	float: right;
+	width: 240px;
+	height:68px;
+	font-size: 35px;
+	padding: 10px;
+	padding-top: 30px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.ciastkarnia:hover
+{
+	background-color: #ceb73b;
+}
+
+.druzynasportowa
+{
+	background-color: #295885;
+	float: left;
+	width: 240px;
+	height:88px;
+	font-size: 35px;
+	padding: 10px;
+	padding-top: 10px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.druzynasportowa:hover
+{	
+	background-color: #184774;
+}
+
+.macos
+{
+	background-color: #87cde9;
+	float: right;
+	width: 240px;
+	height:68px;
+	padding: 10px;
+	padding-top: 30px;
+	font-size: 35px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.macos:hover
+{
+	background-color: #76bcd8;
+}
+
+.seoul
+{
+	background-color: #d177d4;
+	float: left;
+	width: 240px;
+	height:68px;
+	padding: 10px;
+	padding-top: 30px;
+	font-size: 35px;
+	margin: 10px;
+	border-radius: 15px;
+}
+.seoul:hover
+{
+	background-color: #c166c3;
+}
+
+a.a1
+{
+	color: white;
+    text-decoration: none;
+    display: block;
+}
